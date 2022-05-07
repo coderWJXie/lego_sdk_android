@@ -1,0 +1,3 @@
+include ':LGSDK'
+include ':app'
+rootProject.name = "LGGame"
